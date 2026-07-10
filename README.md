@@ -46,7 +46,7 @@ amazon-ui-clone/
 
 ## 📸 Screenshots
 
-(Add your project screenshot here)
+
 
 ```
 ![Amazon UI Clone Screenshot](screenshot.png)
