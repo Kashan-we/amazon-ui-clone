@@ -75,7 +75,7 @@ I plan to add:
 
 ## 👨‍💻 Author
 
-**Kashan**
+**Abdul Hayi**
 
 * GitHub: https://github.com/Kashan-we
 
