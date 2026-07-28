@@ -49,7 +49,7 @@ amazon-ui-clone/
 
 
 ```
-![Amazon UI Clone](images/screenshot.png)
+![Amazon UI Clone](screenshot.png)
 ```
 
 ## 🎯 Purpose of This Project
@@ -75,7 +75,7 @@ I plan to add:
 
 ## 👨‍💻 Author
 
-**Kashan**
+**Abdul Hayi**
 
 * GitHub: https://github.com/Kashan-we
 
