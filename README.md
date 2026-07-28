@@ -27,7 +27,7 @@ This project was created as a part of my frontend development learning journey t
 
 ## 📂 Project Structure
 
-```
+
 amazon-ui-clone/
 │
 ├── index.html
@@ -42,15 +42,15 @@ amazon-ui-clone/
 ├── box-7.jpg
 ├── box-8.jpg
 └── README.md
-```
+
 
 ## 📸 Screenshots
 
 
 
-```
+
 ![Amazon UI Clone](screenshot.png)
-```
+
 
 ## 🎯 Purpose of This Project
 
