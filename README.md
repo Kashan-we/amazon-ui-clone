@@ -49,7 +49,7 @@ amazon-ui-clone/
 
 
 ```
-![Amazon UI Clone Screenshot](screenshot.png)
+![Amazon UI Clone](images/screenshot.png)
 ```
 
 ## 🎯 Purpose of This Project
